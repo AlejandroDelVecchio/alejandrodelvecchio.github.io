@@ -38,7 +38,7 @@ Aunque las instrucciones se formulan de modo secuencial y con un lenguaje concre
 
 Pero el hecho fundamental, en última instancia, es que la emergencia de un algoritmo a la superficie de la pantalla opera como elemento metatextual, en tanto que, suerte de ruptura de una hipotética “cuarta pared digital”, no solo exhibe el artificio implicado en la exhortación a ejecutarlo, sino que nos recuerda (o incluso nos revela) que “delegamos aspectos significativos de nuestra existencia a las maquinaciones oscuras de las cajas negras tecnológicas” (Tisselli 2018: 36). Ya Rita Raley, a partir del análisis de una escena fílmica, había sugerido la existencia de un “ímpetu del code art contemporáneo” que consistiría, en pocas palabras, en “revelar códigos, hacer visibles al espectador los mecanismos de producción”. Pero en Amazon, el código visible no es un artefacto lingüístico y estético fijo, sino un programa funcional que debe ser activado por un lector maquínico. 
 
-Cuando los pasos del instructivo se completan otro texto (otra página web) se despliega en el navegador: una selva de asteriscos con tres tonalidades de verde, sustituidos por números rojizos en forma paulatina (con frecuencia temporal creciente, acaso sugiriendo la aceleración de la tala en el Amazonas) hasta que solo quedan dígitos sustituyéndose unos a otros en un loop infinito del algoritmo que, sombrío, parece insinuar que estamos frente a un proceso sin retorno . Si bien la interacción propuesta por el artefacto digital diseñado por Tisselli resulta exigua, es el usuario-lector quien al copiarlo, pegarlo y ejecutarlo, hace proliferar el código, como si se tratara de un virus y sin siquiera sospechar –en la mayoría de los casos– su funcionalidad. 
+Cuando los pasos del instructivo se completan otro texto (otra página web) se despliega en el navegador: una selva de asteriscos con tres tonalidades de verde, sustituidos por números rojizos en forma paulatina (con frecuencia temporal creciente, acaso sugiriendo la aceleración de la tala en el Amazonas) hasta que solo quedan dígitos sustituyéndose unos a otros en un loop infinito del algoritmo que, sombrío, parece insinuar que estamos frente a un proceso sin retorno [^2]. Si bien la interacción propuesta por el artefacto digital diseñado por Tisselli resulta exigua, es el usuario-lector quien al copiarlo, pegarlo y ejecutarlo, hace proliferar el código, como si se tratara de un virus y sin siquiera sospechar –en la mayoría de los casos– su funcionalidad. 
 
 <p align="center">
 <img width="332" height="284" alt="image" src="https://github.com/user-attachments/assets/9f65eb71-9a53-41ef-8821-5ee16fe82c4e" />
@@ -108,7 +108,7 @@ Mackenzie, Adrian (2006). Cutting Code: Software and Sociality. New York: Peter 
 
 Marino, Mark (2020). Critical Code Studies. Cambridge, Massachusetts: The MIT Press.
 
-Raley, Rita (2016). “Code.surface| |Code.depth”. Dichtung Digital. Journal für Kunst und Kultur digitaler Medien. Nr. 36, Jg. 8.
+Raley, Rita (2016). “Code.surface||Code.depth”. Dichtung Digital. Journal für Kunst und Kultur digitaler Medien. Nr. 36, Jg. 8.
 
 Tisselli, Eugenio (2018). La espectralidad del lenguaje. Recuperado de: https://doi.org/10.1017/CBO9781107415324.004
 
@@ -118,7 +118,7 @@ Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en
 
 [^1]: Por ejemplo el siguiente *code poem* de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
     ```javascript  
-    COLAPSO
+    __COLAPSO__
 
     if(this.habits){
       if(temperature.rise){
@@ -134,3 +134,4 @@ Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en
       }
     }
   ```
+[^2]: Ya en el año 2000 el químico Paul Crutzen había propuesto el término Antropoceno para delimitar una era en la que la influencia del comportamiento humano sobre la Tierra ha implicado transformaciones en el nivel geológico que traspasaron el umbral de irreversibilidad (Costa, 2021: 10).
