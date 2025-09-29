@@ -84,6 +84,26 @@ La pieza de Tisselli, en sintonía con planteos de García Canclini en Ciudadano
 
 Frente a la datificación de la experiencia y los predicamentos del Capitaloceno, Tisselli propone, a partir de producciones como Amazon, “poner en tela de juicio la irresponsabilidad implícita en la supuesta autonomía del arte” y asumir con plenitud un arte heterónomo, “interdependiente con los seres y fenómenos que se enmarañan en esta era de la vulnerabilidad” (2019b). En este sentido, el cultivo de una “actitud farmacológica” ante la tecnología resulta ineludible para los artistas digitales. Esta actitud implica, advierte Stiegler, “una investigación de cómo los artefactos tecnológicos curan o dañan nuestros cuerpos, mentes y almas individuales y colectivas” (citado en Tisselli, 2019b). Como bien sabía Platón, la paradoja del pharmakon remite en simultáneo, desde la ambigüedad semántica del término, al veneno y al remedio. Por ende, dicha actitud farmacológica sugiere una “pregunta permanente y constante acerca de la justa dosis de tecnología que necesitamos para vivir bien” (2019b). Amazon puede leerse, entonces, como una convocatoria (cuya dimensión política reside sobre todo en la forma: la impotencia frente a la ilegibilidad del código remeda la impotencia frente al ecocidio) a borrar el algoritmo de cuerpos y mentes, y destruir las máquinas asesinas. 
 
+[^1]: Por ejemplo el siguiente *code poem* de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
+    ```javascript  
+    <b>COLAPSO</b>
+
+    if(this.habits){
+      if(temperature.rise){
+        if(thaw){
+          if(species.extinction){
+            if(deforestation){
+              if(desertification){
+                return colapse;
+              }
+            }
+          }
+        }
+      }
+    }
+  ```
+[^2]: Ya en el año 2000 el químico Paul Crutzen había propuesto el término Antropoceno para delimitar una era en la que la influencia del comportamiento humano sobre la Tierra ha implicado transformaciones en el nivel geológico que traspasaron el umbral de irreversibilidad (Costa, 2021: 10).
+
 __Bibliografía:__
 
 Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. Literary and Linguistic Computing, Oxford University Press Vol. 27.
@@ -115,23 +135,3 @@ Tisselli, Eugenio (2018). La espectralidad del lenguaje. Recuperado de: https://
 Tisselli, Eugenio (2019a). Amazon. Recuperado de: motorhueso.net/amazon/es/
 
 Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en el Antropoceno. Ecología Política. Recuperado de: https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/
-
-[^1]: Por ejemplo el siguiente *code poem* de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
-    ```javascript  
-    <b>COLAPSO</b>
-
-    if(this.habits){
-      if(temperature.rise){
-        if(thaw){
-          if(species.extinction){
-            if(deforestation){
-              if(desertification){
-                return colapse;
-              }
-            }
-          }
-        }
-      }
-    }
-  ```
-[^2]: Ya en el año 2000 el químico Paul Crutzen había propuesto el término Antropoceno para delimitar una era en la que la influencia del comportamiento humano sobre la Tierra ha implicado transformaciones en el nivel geológico que traspasaron el umbral de irreversibilidad (Costa, 2021: 10).
