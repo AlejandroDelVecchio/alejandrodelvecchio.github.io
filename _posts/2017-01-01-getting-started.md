@@ -20,7 +20,7 @@ Este ejemplo, citado por Marino en su libro, muestra cómo, producto de la revol
 
 Ocurre que, en palabras de Rita Raley, aunque tanto el código como la lengua pueden divertir, asombrar, informar y deleitar, ambos pueden ser escritos y leídos, ambos son performativos y pueden iniciar cambios en el mundo, uno puede ser ejecutado por la computadora y el otro no (Raley). Por eso en el título de este trabajo la coma entre “texto” y “código” sugiere una doble lectura: “texto” y “código” como materialidades distintivas (en tanto la coma separa términos de una enumeración) o equivalentes (en tanto introduce una aposición explicativa). En cualquier caso, el código fuente ejecutable también es un texto, un sistema de signos con sintaxis y retórica específicas, cuyo potencial significante excede su dimensión funcional.
 
-Asimismo, la pancarta india puede leerse como indicio metafórico de la emergencia del código a la superficie material de los dispositivos, ya sean digitales o no. Develar (¿deconstruir?) código ejecutable, sacarlo de la caja negra, posee potentes implicancias ideológicas. En el prólogo al volumen Speaking Code. Coding as Aesthetic and Political Expression de Geoff Cox (texto) y Alex McLean (código), “Bifo” Berardi advierte que el código tiene el poder de inscribir el futuro, mediante el formateo de relaciones lingüísticas y del desarrollo pragmático de signos algorítmicos. El código modela el futuro, porque el futuro está inscripto en el código: la implementación de código configura nuestro entorno digital, pero también nuestros comportamientos. El código financiero, por ejemplo, dice Berardi, desencadena una serie de automatismos lingüísticos capaces de modelar y ejecutar actividades sociales, patrones de consumo y estilos de vida (Cox y McLean 2012: 7). 
+Asimismo, la pancarta india puede leerse como indicio metafórico de la emergencia del código a la superficie material de los dispositivos, ya sean digitales o no. Develar (¿deconstruir?) código ejecutable, sacarlo de la caja negra, posee potentes implicancias ideológicas. En el prólogo al volumen *Speaking Code. Coding as Aesthetic and Political Expression* de Geoff Cox (texto) y Alex McLean (código), “Bifo” Berardi advierte que el código tiene el poder de inscribir el futuro, mediante el formateo de relaciones lingüísticas y del desarrollo pragmático de signos algorítmicos. El código modela el futuro, porque el futuro está inscripto en el código: la implementación de código configura nuestro entorno digital, pero también nuestros comportamientos. El código financiero, por ejemplo, dice Berardi, desencadena una serie de automatismos lingüísticos capaces de modelar y ejecutar actividades sociales, patrones de consumo y estilos de vida (Cox y McLean 2012: 7). 
 
 En este escenario, se instalan –de modo inevitable– el interrogante acerca de los códigos ocultos y la sospecha de que operan contra nuestros intereses (“Programa o serás programado”, advierte el título de un libro de Douglas Rushkoff). Por eso los denominados “Estudios críticos del código” (CCS en su sigla original en inglés), como campo incipiente pero en continua expansión, focalizan su polisemia significante aplicando “una hermenéutica crítica a la interpretación del código informático, la arquitectura del programa y la documentación dentro de un contexto sociohistórico” (Marino 2020: 39). Evadir estos aspectos, por cierto extrafuncionales, implicaría reducir el análisis a operatorias evidenciadas en los efectos de lectura generados por su ejecución, es decir, al nivel de interfaz. 
 
@@ -117,9 +117,9 @@ Tisselli, Eugenio (2019a). Amazon. Recuperado de: motorhueso.net/amazon/es/
 Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en el Antropoceno. Ecología Política. Recuperado de: https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/
 
 [^1]: Por ejemplo el siguiente *code poem* de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
-
+  
   COLAPSO
-
+  
   if(this.habits){
     if(temperature.rise){
       if(thaw){
