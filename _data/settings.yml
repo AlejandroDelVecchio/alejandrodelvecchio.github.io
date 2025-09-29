@@ -10,7 +10,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Electrobardo',   url: 'electrobardo'}
+- {name: 'Electrobardo',   url: 'Electrobardo'}
 
 #-------------------------------
 # Contact Section
