@@ -105,13 +105,13 @@ Frente a la datificación de la experiencia y los predicamentos del Capitaloceno
   ```
 [^2]: Ya en el año 2000 el químico Paul Crutzen había propuesto el término Antropoceno para delimitar una era en la que la influencia del comportamiento humano sobre la Tierra ha implicado transformaciones en el nivel geológico que traspasaron el umbral de irreversibilidad (Costa, 2021: 10).
 
-## __Bibliografía:__
+__Bibliografía:__
 
 Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. Literary and Linguistic Computing, Oxford University Press Vol. 27.
 
 Cayley, John (2002). “The Code is not the Text (Unless It Is the Text)”. Electronic Book Review. Recuperado de: electronicbookreview.com/essay/the-code-is-notthe-text-unless-it-is-the-text/
 
-Costa, Flavia (2021). Tecnoceno. Ciudad Autónoma de Buenos Aires: Taurus.
+Costa, Flavia (2021). *Tecnoceno*. Ciudad Autónoma de Buenos Aires: Taurus.
 
 Cox, Geoff y McLean, Alex (2012). Speaking Code: Coding as Aesthetic and Political Expression. Cambridge, Massachusetts, London, England: The MIT Press.
 
