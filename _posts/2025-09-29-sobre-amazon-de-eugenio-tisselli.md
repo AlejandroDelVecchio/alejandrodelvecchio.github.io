@@ -56,7 +56,7 @@ Por eso, el texto de Tisselli modula discursivamente hacia la configuración pro
 
 Más allá del componente político implicado en llevar el código a la interfaz, en moverlo del fondo al primer plano –es decir, desvelarlo–, estrategia relacionada además con el software libre y los movimientos de código abierto (Raley), el texto metapoético (o metatecnológico) que se despliega al seguir el hipervínculo bajo la palabra “vector” escenifica su naturaleza digital como objeto de problematización y usina conceptual de Amazon. Se trata de una “declaración de artista”, género afín al manifiesto, cuyo didactismo y poder de persuasión articula una descripción del objeto artístico y su inserción en un contexto histórico y teórico preciso. Tisselli asegura allí que quiso:
 
-transmitir la idea de que el código de esta pieza era algo condensado y obscuro, como una pequeña píldora cuyos contenidos sólo se vuelven evidentes una vez que ha sido ingerida. O como el material genético de un virus, encerrado en su capa de proteínas y lípidos, esperando el contexto necesario para su activación. Código que se esparce: pequeño y aparentemente insignificante, fácil de copiar y pegar y, a pesar de ello, críptico e inmanente.
+> transmitir la idea de que el código de esta pieza era algo condensado y obscuro, como una pequeña píldora cuyos contenidos sólo se vuelven evidentes una vez que ha sido ingerida. O como el material genético de un virus, encerrado en su capa de proteínas y lípidos, esperando el contexto necesario para su activación. Código que se esparce: pequeño y aparentemente insignificante, fácil de copiar y pegar y, a pesar de ello, críptico e inmanente.
 
 Así, la autorreferencialidad –y en específico la autorreflexividad– surgen como marcas de escrituras que pueden pensarse como alegorías materiales que integran construcción y descripción. 
 
@@ -74,7 +74,8 @@ __3. Por un arte digital heterónomo__
 
 <p align="right">
 Todo es veneno, nada es veneno.
-
+</p>
+<p align="right">
 Paracelso
 </p>
 
