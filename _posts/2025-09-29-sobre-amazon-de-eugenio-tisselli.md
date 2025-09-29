@@ -108,7 +108,7 @@ Mackenzie, Adrian (2006). Cutting Code: Software and Sociality. New York: Peter 
 
 Marino, Mark (2020). Critical Code Studies. Cambridge, Massachusetts: The MIT Press.
 
-Raley, Rita (2016). “Code.surface||Code.depth”. Dichtung Digital. Journal für Kunst und Kultur digitaler Medien. Nr. 36, Jg. 8.
+Raley, Rita (2016). “Code.surface Code.depth”. Dichtung Digital. Journal für Kunst und Kultur digitaler Medien. Nr. 36, Jg. 8.
 
 Tisselli, Eugenio (2018). La espectralidad del lenguaje. Recuperado de: https://doi.org/10.1017/CBO9781107415324.004
 
@@ -118,7 +118,7 @@ Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en
 
 [^1]: Por ejemplo el siguiente *code poem* de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
     ```javascript  
-    __COLAPSO__
+    <b>COLAPSO</b>
 
     if(this.habits){
       if(temperature.rise){
