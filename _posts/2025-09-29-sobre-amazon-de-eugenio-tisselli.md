@@ -74,8 +74,7 @@ __3. Por un arte digital heterónomo__
 
 <p align="right">
 Todo es veneno, nada es veneno.
-</p>
-<p align="right">
+
 Paracelso
 </p>
 
