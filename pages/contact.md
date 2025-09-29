@@ -4,6 +4,6 @@ title: Contacto
 permalink: /contact
 ---
 
-# Contact
+# Contacto
 
 Podés contactarme a través de mi [correo electrónico](mailto:alejandrodelvecchio@gmail.com).
