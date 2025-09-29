@@ -135,4 +135,4 @@ Tisselli, Eugenio (2018). La espectralidad del lenguaje. Recuperado de: https://
 
 Tisselli, Eugenio (2019a). *Amazon*. Recuperado de: motorhueso.net/amazon/es/
 
-Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en el Antropoceno. Ecología Política. Recuperado de: <https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/>
+Tisselli, Eugenio (2019b). *La comunidad extendida: arte e implicación social en el Antropoceno*. *Ecología Política*. Recuperado de: <a href="https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/" target="_blank" rel="noopener noreferrer">https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/</a>
