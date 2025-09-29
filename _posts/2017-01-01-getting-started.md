@@ -63,13 +63,19 @@ Así, la autorreferencialidad –y en específico la autorreflexividad– surgen
 En esta “declaración de artista”, la primera persona se pluraliza de modo gradual para provocar políticamente al lector: “A lo largo de nuestro acontecer cotidiano ayudamos al código a proliferar”: copiar, pegar y ejecutar devienen metáforas de la viralización del modelo de conducta de los homo economicus, quienes evaluamos “todas las actividades y eventos de nuestras vidas en términos de costos y beneficios, de racionalizaciones y optimizaciones”. De allí que Tisselli proponga una relación entre “los comportamientos codificados” y esa “inteligencia artificial ambiental” que “interpreta y produce al mundo como un sistema compuesto por números”. No es azaroso entonces que la ejecución de amazon.html no incluya un mecanismo interruptor: los usuarios somos testigos impotentes frente al proceso de destrucción monetizante de la selva, que itera sin fin sobreimprimiendo dígitos para remedar el tablero caótico e indescifrable de las cotizaciones de Wall Street.
 
 Por último, si como dice Goldsmith, “durante los últimos años ha habido una explosión de escrituras que emplean estrategias de copiado y apropiación, alentados por la idea de imitar el funcionamiento de la computadora” (26), resulta evidente que también el código informático resulta susceptible de apropiación y reescritura, hecho que supone nuevos desafíos para la teoría y la crítica literarias. En este sentido, nada impide reescribir Amazon para diseñar, por ejemplo, una nueva versión con emojis y funcionalidades distintas:
+
+<p align="center">
+<img width="313" height="334" alt="image" src="https://github.com/user-attachments/assets/22051b4d-5d43-4e53-b067-c12e99d2eb28" />
+</p>
  
 La exégesis de una producción digital, por lo tanto, implica también leer críticamente no solo su documentación y comentarios (es decir, su sistema paratextual), sino sus diferentes versiones y reescrituras.
 
 __3. Por un arte digital heterónomo__
 
+<p align="right">
 Todo es veneno, nada es veneno.
 Paracelso
+</p>
 
 Si la literatura digital  puede pensarse como forma compleja, articulada en capas: el código (secuencia de instrucciones para traducir un mensaje de una forma simbólica a otra), su ejecución (un proceso maquínico) y la salida (la pieza artística), producciones como Amazon ponen en abismo esa estructura al incorporar a su vez fragmentos de código visible, cuya ejecución supone un nuevo (hiper)texto, que complementa o expande la pieza inicial. La preferencia por una retórica de ilegibilidad en el documento html expuesto refuerza la necesidad de configurar un aparato teórico-crítico adecuado para indagar la especificidad del código como práctica de escritura, sin eludir además sus modalidades de circulación y apropiación, e incluso su potencial para el activismo digital. Lejos de reducirlo a dimensiones lógicas y matemáticas carentes de significación, los “estudios críticos del código” lo conciben como un sistema de signos pródigo en denotaciones y connotaciones, que circulan y se activan en contextos múltiples (Marino, 19). 
 
