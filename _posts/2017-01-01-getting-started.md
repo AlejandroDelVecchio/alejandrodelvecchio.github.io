@@ -74,6 +74,7 @@ __3. Por un arte digital heterónomo__
 
 <p align="right">
 Todo es veneno, nada es veneno.
+
 Paracelso
 </p>
 
@@ -115,20 +116,20 @@ Tisselli, Eugenio (2019a). Amazon. Recuperado de: motorhueso.net/amazon/es/
 
 Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en el Antropoceno. Ecología Política. Recuperado de: https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/
 
-[^1]: Por ejemplo el siguiente code poem de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
+[^1]: Por ejemplo el siguiente *code poem* de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
 
-COLAPSO
+  COLAPSO
 
-if(this.habits){
-  if(temperature.rise){
-    if(thaw){
-      if(species.extinction){
-        if(deforestation){
-          if(desertification){
-            return colapse;
+  if(this.habits){
+    if(temperature.rise){
+      if(thaw){
+        if(species.extinction){
+          if(deforestation){
+            if(desertification){
+              return colapse;
+            }
           }
         }
       }
     }
   }
-}
