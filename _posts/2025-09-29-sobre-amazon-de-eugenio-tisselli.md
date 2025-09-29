@@ -105,7 +105,7 @@ Frente a la datificación de la experiencia y los predicamentos del Capitaloceno
   ```
 [^2]: Ya en el año 2000 el químico Paul Crutzen había propuesto el término Antropoceno para delimitar una era en la que la influencia del comportamiento humano sobre la Tierra ha implicado transformaciones en el nivel geológico que traspasaron el umbral de irreversibilidad (Costa, 2021: 10).
 
-__Bibliografía:__
+## __Bibliografía:__
 
 Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. Literary and Linguistic Computing, Oxford University Press Vol. 27.
 
