@@ -16,10 +16,9 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'twitter',   link: 'https://x.com/Alexanderplaf'}
+- {icon: 'instagram', link: 'https://www.instagram.com/alejandrodelvec/'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/alejandro-del-vecchio-596b9910/'}
 - {icon: 'envelope',  link: 'mailto:mailto:alejandrodelvecchio@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
