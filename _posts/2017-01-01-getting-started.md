@@ -40,7 +40,9 @@ Pero el hecho fundamental, en última instancia, es que la emergencia de un algo
 
 Cuando los pasos del instructivo se completan otro texto (otra página web) se despliega en el navegador: una selva de asteriscos con tres tonalidades de verde, sustituidos por números rojizos en forma paulatina (con frecuencia temporal creciente, acaso sugiriendo la aceleración de la tala en el Amazonas) hasta que solo quedan dígitos sustituyéndose unos a otros en un loop infinito del algoritmo que, sombrío, parece insinuar que estamos frente a un proceso sin retorno . Si bien la interacción propuesta por el artefacto digital diseñado por Tisselli resulta exigua, es el usuario-lector quien al copiarlo, pegarlo y ejecutarlo, hace proliferar el código, como si se tratara de un virus y sin siquiera sospechar –en la mayoría de los casos– su funcionalidad. 
 
-<img width="554" height="474" alt="image" src="https://github.com/user-attachments/assets/9f65eb71-9a53-41ef-8821-5ee16fe82c4e" />
+<p align="center">
+<img width="332" height="284" alt="image" src="https://github.com/user-attachments/assets/9f65eb71-9a53-41ef-8821-5ee16fe82c4e" />
+</p>
 
 En sintonía con los “estudios críticos del código”, una metalectura especializada de Amazon –es decir, una lectura que considere también el código (visible y subyacente) y el proceso de su ejecución como elementos fundamentales en la comprensión y concepción de la pieza artística (Bootz 2012)– posibilita describir y analizar alguno de los principios compositivos del programa replicado. Cuando menos, aquellos definidos en variables: la cantidad de filas (50) y columnas (60) de la selva de asteriscos humanoides, el triplete hexadecimal que codifica los tres tonos de verde de la paleta y el correspondiente a los dígitos sangrientos, las operaciones aritméticas rectoras de la temporalidad acelerada , entre muchos elementos que solo pueden ser descifrados en el código fuente.
 
