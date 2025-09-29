@@ -75,24 +75,36 @@ La pieza de Tisselli, en sintonía con planteos de García Canclini en Ciudadano
 
 Frente a la datificación de la experiencia y los predicamentos del Capitaloceno, Tisselli propone, a partir de producciones como Amazon, “poner en tela de juicio la irresponsabilidad implícita en la supuesta autonomía del arte” y asumir con plenitud un arte heterónomo, “interdependiente con los seres y fenómenos que se enmarañan en esta era de la vulnerabilidad” (2019b). En este sentido, el cultivo de una “actitud farmacológica” ante la tecnología resulta ineludible para los artistas digitales. Esta actitud implica, advierte Stiegler, “una investigación de cómo los artefactos tecnológicos curan o dañan nuestros cuerpos, mentes y almas individuales y colectivas” (citado en Tisselli, 2019b). Como bien sabía Platón, la paradoja del pharmakon remite en simultáneo, desde la ambigüedad semántica del término, al veneno y al remedio. Por ende, dicha actitud farmacológica sugiere una “pregunta permanente y constante acerca de la justa dosis de tecnología que necesitamos para vivir bien” (2019b). Amazon puede leerse, entonces, como una convocatoria (cuya dimensión política reside sobre todo en la forma: la impotencia frente a la ilegibilidad del código remeda la impotencia frente al ecocidio) a borrar el algoritmo de cuerpos y mentes, y destruir las máquinas asesinas. 
 
-Bibliografía:
+__Bibliografía:__
+
 Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. Literary and Linguistic Computing, Oxford University Press Vol. 27.
+
 Cayley, John (2002). “The Code is not the Text (Unless It Is the Text)”. Electronic Book Review. Recuperado de: electronicbookreview.com/essay/the-code-is-notthe-text-unless-it-is-the-text/
+
 Costa, Flavia (2021). Tecnoceno. Ciudad Autónoma de Buenos Aires: Taurus.
+
 Cox, Geoff y McLean, Alex (2012). Speaking Code: Coding as Aesthetic and Political Expression. Cambridge, Massachusetts, London, England: The MIT Press.
+
 García Canclini, Néstor (2019). Ciudadanos reemplazados por algoritmos. Guadalajara: Centro Maria Sibylla Merian de Estudios Latinoamericanos Avanzados en Humanidades y Ciencias Sociales.
+
 Goldsmith, Kenneth (2015). Escritura no-creativa: gestionando el lenguaje en la era digital. Ciudad Autónoma de Buenos Aires: Caja negra.
+
 Hofstadter, Douglas (1982), Gödel, Escher, Bach: una eterna trenza dorada. México, Consejo Nacional de Ciencia y Tecnología.
+
 Kozak, Claudia (2017). Esos raros poemas nuevos. Teoría y crítica de la poesía digital latinoamericana. El jardín de los poetas. Año III, Nro. 4.
+
 Landow, George (2009). Hipertexto 3.0. Barcelona: Paidós.
+
 Mackenzie, Adrian (2006). Cutting Code: Software and Sociality. New York: Peter Lang.
+
 Marino, Mark (2020). Critical Code Studies. Cambridge, Massachusetts: The MIT Press.
+
 Raley, Rita (2016). “Code.surface| |Code.depth”. Dichtung Digital. Journal für Kunst und Kultur digitaler Medien. Nr. 36, Jg. 8.
+
 Tisselli, Eugenio (2018). La espectralidad del lenguaje. Recuperado de: https://doi.org/10.1017/CBO9781107415324.004
+
 Tisselli, Eugenio (2019a). Amazon. Recuperado de: motorhueso.net/amazon/es/
+
 Tisselli, Eugenio (2019b). La comunidad extendida: arte e implicación social en el Antropoceno. Ecología Política. Recuperado de: https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/
-
-
-
 
 
