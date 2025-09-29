@@ -87,7 +87,7 @@ Frente a la datificación de la experiencia y los predicamentos del Capitaloceno
 
 [^1]: Por ejemplo el siguiente *code poem* de Belén García Nieto (vinculado temáticamente a la pieza de Tisselli que analizo en este trabajo): 
     ```javascript  
-    <b>COLAPSO</b>
+    <strong>COLAPSO</strong>
 
     if(this.habits){
       if(temperature.rise){
