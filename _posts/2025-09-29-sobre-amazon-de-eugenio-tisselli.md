@@ -5,6 +5,7 @@ title: "Literatura digital y escrituras (texto, código): sobre <em>Amazon</em> 
 ---
 
 __1. Cómo hacer cosas con programas__
+# 1. Cómo hacer cosas con programas
 
 En la introducción a _Critical Code Studies_ [Estudios críticos del código] (2020), Mark Marino apostilla una fotografía publicada en la red social Reddit por demás sugestiva: en el contexto de una protesta política, hacia 2011, una mujer sostiene una pancarta escrita en lo que parece ser lenguaje de programación C, cuyo plan o idea se expresa a través de un algoritmo. La manifestante convoca, desde el diseño de un lector modelo concreto, a estudiantes de ingeniería e informática para que apoyen el proyecto Jan Lokpal, redactado por activistas de la sociedad civil india con el objetivo de crear un organismo independiente que investigue con celeridad casos de corrupción.
 
@@ -106,31 +107,31 @@ Frente a la datificación de la experiencia y los predicamentos del Capitaloceno
 
 __Bibliografía:__
 
-Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. Literary and Linguistic Computing, Oxford University Press Vol. 27.
+Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. *Literary and Linguistic Computing*, Oxford University Press Vol. 27.
 
-Cayley, John (2002). “The Code is not the Text (Unless It Is the Text)”. Electronic Book Review. Recuperado de: electronicbookreview.com/essay/the-code-is-notthe-text-unless-it-is-the-text/
+Cayley, John (2002). “The Code is not the Text (Unless It Is the Text)”. *Electronic Book Review*. Recuperado de: electronicbookreview.com/essay/the-code-is-notthe-text-unless-it-is-the-text/
 
 Costa, Flavia (2021). *Tecnoceno*. Ciudad Autónoma de Buenos Aires: Taurus.
 
-Cox, Geoff y McLean, Alex (2012). Speaking Code: Coding as Aesthetic and Political Expression. Cambridge, Massachusetts, London, England: The MIT Press.
+Cox, Geoff y McLean, Alex (2012). *Speaking Code: Coding as Aesthetic and Political Expression*. Cambridge, Massachusetts, London, England: The MIT Press.
 
-García Canclini, Néstor (2019). Ciudadanos reemplazados por algoritmos. Guadalajara: Centro Maria Sibylla Merian de Estudios Latinoamericanos Avanzados en Humanidades y Ciencias Sociales.
+García Canclini, Néstor (2019). *Ciudadanos reemplazados por algoritmos*. Guadalajara: Centro Maria Sibylla Merian de Estudios Latinoamericanos Avanzados en Humanidades y Ciencias Sociales.
 
-Goldsmith, Kenneth (2015). Escritura no-creativa: gestionando el lenguaje en la era digital. Ciudad Autónoma de Buenos Aires: Caja negra.
+Goldsmith, Kenneth (2015). *Escritura no-creativa: gestionando el lenguaje en la era digital*. Ciudad Autónoma de Buenos Aires: Caja negra.
 
-Hofstadter, Douglas (1982), Gödel, Escher, Bach: una eterna trenza dorada. México, Consejo Nacional de Ciencia y Tecnología.
+Hofstadter, Douglas (1982). *Gödel, Escher, Bach: una eterna trenza dorada*. México, Consejo Nacional de Ciencia y Tecnología.
 
-Kozak, Claudia (2017). Esos raros poemas nuevos. Teoría y crítica de la poesía digital latinoamericana. El jardín de los poetas. Año III, Nro. 4.
+Kozak, Claudia (2017). Esos raros poemas nuevos. Teoría y crítica de la poesía digital latinoamericana. *El jardín de los poetas*. Año III, Nro. 4.
 
-Landow, George (2009). Hipertexto 3.0. Barcelona: Paidós.
+Landow, George (2009). *Hipertexto 3.0*. Barcelona: Paidós.
 
-Mackenzie, Adrian (2006). Cutting Code: Software and Sociality. New York: Peter Lang.
+Mackenzie, Adrian (2006). *Cutting Code: Software and Sociality*. New York: Peter Lang.
 
-Marino, Mark (2020). Critical Code Studies. Cambridge, Massachusetts: The MIT Press.
+Marino, Mark (2020). *Critical Code Studies*. Cambridge, Massachusetts: The MIT Press.
 
-Raley, Rita (2016). “Code.surface Code.depth”. Dichtung Digital. Journal für Kunst und Kultur digitaler Medien. Nr. 36, Jg. 8.
+Raley, Rita (2016). “Code.surface Code.depth”. Dichtung Digital. *Journal für Kunst und Kultur digitaler Medien. Nr. 36*, Jg. 8.
 
-Tisselli, Eugenio (2018). La espectralidad del lenguaje. Recuperado de: https://doi.org/10.1017/CBO9781107415324.004
+Tisselli, Eugenio (2018). *La espectralidad del lenguaje*. Recuperado de: https://doi.org/10.1017/CBO9781107415324.004
 
 Tisselli, Eugenio (2019a). *Amazon*. Recuperado de: motorhueso.net/amazon/es/
 
