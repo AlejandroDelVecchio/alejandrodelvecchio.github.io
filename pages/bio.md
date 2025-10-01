@@ -4,12 +4,6 @@ title: Bio
 permalink: /bio
 ---
 
-# Bio
+__Bio__
 
-<iframe width="560" height="315"
-  src="https://youtu.be/xZEEak9LSVY"
-  title="Bio"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![Ver video en YouTube](https://img.youtube.com/vi/xZEEak9LSVY/0.jpg)](https://www.youtube.com/watch?v=xZEEak9LSVY)
