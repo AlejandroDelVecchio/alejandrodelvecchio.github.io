@@ -4,7 +4,7 @@ title: "Literatura digital y escrituras (texto, código): sobre <em>Amazon</em> 
 "
 ---
 
-## 1. Cómo hacer cosas con programas
+### 1. Cómo hacer cosas con programas
 
 En la introducción a _Critical Code Studies_ [Estudios críticos del código] (2020), Mark Marino apostilla una fotografía publicada en la red social Reddit por demás sugestiva: en el contexto de una protesta política, hacia 2011, una mujer sostiene una pancarta escrita en lo que parece ser lenguaje de programación C, cuyo plan o idea se expresa a través de un algoritmo. La manifestante convoca, desde el diseño de un lector modelo concreto, a estudiantes de ingeniería e informática para que apoyen el proyecto Jan Lokpal, redactado por activistas de la sociedad civil india con el objetivo de crear un organismo independiente que investigue con celeridad casos de corrupción.
 
@@ -74,8 +74,7 @@ La exégesis de una producción digital, por lo tanto, implica también leer cr�
 
 <p align="right">
 Todo es veneno, nada es veneno.
-</p>
-<p align="right">
+
 Paracelso
 </p>
 
@@ -109,7 +108,7 @@ __Bibliografía:__
 
 Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. *Literary and Linguistic Computing*, Oxford University Press Vol. 27.
 
-Cayley, John (2002). “The Code is not the Text (Unless It Is the Text)”. *Electronic Book Review*. Recuperado de: electronicbookreview.com/essay/the-code-is-notthe-text-unless-it-is-the-text/
+Cayley, John (2002). “The Code is not the Text (Unless It Is the Text)”. *Electronic Book Review*. Recuperado de: <a href="electronicbookreview.com/essay/the-code-is-notthe-text-unless-it-is-the-text/" target="_blank" rel="noopener noreferrer">electronicbookreview.com/essay/the-code-is-notthe-text-unless-it-is-the-text/</a>
 
 Costa, Flavia (2021). *Tecnoceno*. Ciudad Autónoma de Buenos Aires: Taurus.
 
@@ -131,8 +130,8 @@ Marino, Mark (2020). *Critical Code Studies*. Cambridge, Massachusetts: The MIT 
 
 Raley, Rita (2016). “Code.surface Code.depth”. Dichtung Digital. *Journal für Kunst und Kultur digitaler Medien. Nr. 36*, Jg. 8.
 
-Tisselli, Eugenio (2018). *La espectralidad del lenguaje*. Recuperado de: https://doi.org/10.1017/CBO9781107415324.004
+Tisselli, Eugenio (2018). *La espectralidad del lenguaje*. Recuperado de: <a href="https://doi.org/10.1017/CBO9781107415324.004" target="_blank" rel="noopener noreferrer">https://doi.org/10.1017/CBO9781107415324.004</a>
 
-Tisselli, Eugenio (2019a). *Amazon*. Recuperado de: motorhueso.net/amazon/es/
+Tisselli, Eugenio (2019a). *Amazon*. Recuperado de: <a href="motorhueso.net/amazon/es/" target="_blank" rel="noopener noreferrer">motorhueso.net/amazon/es/</a>
 
 Tisselli, Eugenio (2019b). *La comunidad extendida: arte e implicación social en el Antropoceno*. *Ecología Política*. Recuperado de: <a href="https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/" target="_blank" rel="noopener noreferrer">https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/</a>
