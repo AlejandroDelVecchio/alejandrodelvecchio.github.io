@@ -73,9 +73,8 @@ La exégesis de una producción digital, por lo tanto, implica también leer cr�
 ### 3. Por un arte digital heterónomo
 
 <p align="right">
-Todo es veneno, nada es veneno.
-
-Paracelso
+  Todo es veneno, nada es veneno.<br>
+  <cite>Paracelso</cite>
 </p>
 
 Si la literatura digital  puede pensarse como forma compleja, articulada en capas: el código (secuencia de instrucciones para traducir un mensaje de una forma simbólica a otra), su ejecución (un proceso maquínico) y la salida (la pieza artística), producciones como *Amazon* ponen en abismo esa estructura al incorporar a su vez fragmentos de código visible, cuya ejecución supone un nuevo (hiper)texto, que complementa o expande la pieza inicial. La preferencia por una retórica de ilegibilidad en el documento html expuesto refuerza la necesidad de configurar un aparato teórico-crítico adecuado para indagar la especificidad del código como práctica de escritura, sin eludir además sus modalidades de circulación y apropiación, e incluso su potencial para el activismo digital. Lejos de reducirlo a dimensiones lógicas y matemáticas carentes de significación, los “estudios críticos del código” lo conciben como un sistema de signos pródigo en denotaciones y connotaciones, que circulan y se activan en contextos múltiples (Marino, 19). 
