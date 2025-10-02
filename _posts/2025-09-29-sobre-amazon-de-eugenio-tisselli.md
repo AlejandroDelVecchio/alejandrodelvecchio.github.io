@@ -4,7 +4,7 @@ title: "Literatura digital y escrituras (texto, código): sobre <em>Amazon</em> 
 "
 ---
 
-### 1. Cómo hacer cosas con programas
+__1. Cómo hacer cosas con programas__
 
 En la introducción a _Critical Code Studies_ [Estudios críticos del código] (2020), Mark Marino apostilla una fotografía publicada en la red social Reddit por demás sugestiva: en el contexto de una protesta política, hacia 2011, una mujer sostiene una pancarta escrita en lo que parece ser lenguaje de programación C, cuyo plan o idea se expresa a través de un algoritmo. La manifestante convoca, desde el diseño de un lector modelo concreto, a estudiantes de ingeniería e informática para que apoyen el proyecto Jan Lokpal, redactado por activistas de la sociedad civil india con el objetivo de crear un organismo independiente que investigue con celeridad casos de corrupción.
 
@@ -26,7 +26,7 @@ En este escenario, se instalan –de modo inevitable– el interrogante acerca d
 
 A partir de estos conceptos y ejes-problema –expuestos sucintamente– me propongo en este trabajo indagar *Amazon* (2019) del poeta, net.artista e ingeniero informático nacido en México, Eugenio Tisselli, deteniéndome en un aspecto que considero neurálgico: las implicancias ideológicas de la inserción de código visible como parte esencial de la concepción de un texto literario.
 
-### 2. *Amazon* de Eugenio Tisselli
+__2. *Amazon* de Eugenio Tisselli__
 
 En *Amazon*, el diseño del espacio de la página revela la elección de una estética minimalista, evidenciada en su maquetación reductible a elementos verbales carentes de color (salvo en los enlaces) y de variaciones tipográficas. El texto –que había aparecido de modo fragmentario en la cuenta de Twitter de Tisselli el 3/8/2019– se presenta en el navegador web en minúsculas y con características formales propias de un instructivo, articulado por una sucesión de verbos con modalidad exhortativa: “copia el código que aparece aquí debajo, pégalo en un editor de texto simple, guárdalo como «amazon.html», haz doble click sobre el archivo para que aparezca en tu navegador, y observa cómo se despliega el capitaloceno”.
 
@@ -70,7 +70,7 @@ Por último, si como dice Goldsmith, “durante los últimos años ha habido una
  
 La exégesis de una producción digital, por lo tanto, implica también leer críticamente no solo su documentación y comentarios (es decir, su sistema paratextual), sino sus diferentes versiones y reescrituras.
 
-### 3. Por un arte digital heterónomo
+__3. Por un arte digital heterónomo__
 
 <p align="right">
   Todo es veneno, nada es veneno.<br>
