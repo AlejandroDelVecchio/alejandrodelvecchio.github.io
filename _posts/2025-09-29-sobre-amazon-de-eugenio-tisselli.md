@@ -103,6 +103,22 @@ Frente a la datificación de la experiencia y los predicamentos del Capitaloceno
   ```
 [^2]: Ya en el año 2000 el químico Paul Crutzen había propuesto el término Antropoceno para delimitar una era en la que la influencia del comportamiento humano sobre la Tierra ha implicado transformaciones en el nivel geológico que traspasaron el umbral de irreversibilidad (Costa, 2021: 10).
 
+[^3]: Inicialmente, el *timeout* que controla la “desaparición” de cada árbol-asterisco está seteado en 5 * 10 ^ 3 milisegundos (es decir, 5 segundos). Luego, ese lapso se va reduciendo a razón de 100 milisegundos por ejecución (s=s>100?s-100:10), lo que genera la aceleración simbólica de la tala.
+
+[^4]: Así por ejemplo, se utilizan letras como nombres de variables (que a lo sumo pueden leerse como iniciales de términos en inglés: *s* por *speed*, *c* por *colors*) y se define un contenedor genérico sin significado semántico específico: var t=document.createElement("SPAN")
+
+[^5]: Se trata de un *link* a un artículo de Jason W. Moore publicado en 2019 en la revista *maize* con ilustraciones de Rebecca Hastings bajo el título “Who is responsible for the climate crisis?” [“¿Quién es el responsable de la crisis climática?”]. Allí el historiador medioambiental y economista político cuestiona, en línea con el activismo por la justicia climática, la distribución igualitaria de la responsabilidad histórica por el cambio climático, en un sistema marcado por una distribución desigual de la riqueza y el poder. Desde este punto de vista, la frase “cambio climático antropogénico” sería un modo de culpar a las víctimas de la explotación, la violencia y la pobreza por la crisis del clima.
+
+[^6]: Al *clickear* este hipervínculo accedemos a una nota de Jordan Davidson titulada “Amazon Deforestation Rate Hits 3 Football Fields Per Minute, Data Confirms” [“La tasa de deforestación del Amazonas equivale a tres canchas de fútbol por minuto, según datos confirmados”] y publicada en 2019 en el portal EcoWatch.
+
+[^7]: Me importa resaltar que, como explica Landow, durante las últimas décadas han convergido dos campos del saber, en apariencia desconectados: la teoría literaria y el hipertexto informático. En efecto, En *S/Z* (1970), Barthes describe un texto ideal coincidente con el hipertexto electrónico: un texto compuesto por bloques de palabras (o de imágenes) electrónicamente unidos a través de múltiples recorridos en una textualidad abierta, eternamente inacabada y descrita con términos como *enlace, nodo, red, trama y trayecto*. Michel Foucault, en la misma línea, también concibe el texto en forma de redes y enlaces. En *La arqueología del saber* (1969) sostiene, precisamente, que “las fronteras de un libro nunca están claramente definidas”, ya que se encuentra “atrapado en un sistema de referencias a otros libros, otros textos, otras frases: es un nodo dentro de una red [...] de referencias” (citado en Landow, 2009: 24-25).
+
+[^8]: Hago referencia al título de la serie *Black Mirror* (2011-2019), creada por Charlie Brooker.
+
+[^9]: Entiendo el término “literatura digital”, en sintonía con Claudia Kozak, como “literatura generada en/por/desde/hacia dispositivos electrónicos, actualmente digitales, es decir, por fuera de medios electrónicos analógicos […] Una literatura programada en código binario a través de la creación y uso de diversos software y experimentada en vinculación con interfaces digitales. De tal manera, la literatura digitalizada –traslado de textos desde el medio impreso a la pantalla, por ejemplo– no entra en esta definición. Sí lo hace en cambio toda literatura nacida digital y en cuyos procedimientos la creación o utilización del código digital informático es intrínseca” (2017: 2).
+
+[^10]: Sin embargo, la paradoja es evidente: a pesar de que Tisselli opta, como señalé, por un diseño compuesto por elementos mínimos, acaso para sugerir transparencia y ocultar el artificio, la página principal de *Amazon* (como toda web) también tiene su propio código fuente, escamoteado sin remedio al usuario-lector.
+
 __Bibliografía:__
 
 Bootz, Philippe (2012). Signs and apparatus in digital poetry: The example of JeanMarie Dutey’s le mange-texte. *Literary and Linguistic Computing*, Oxford University Press Vol. 27.
