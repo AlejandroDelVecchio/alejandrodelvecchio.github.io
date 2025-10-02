@@ -147,6 +147,6 @@ Raley, Rita (2016). “Code.surface Code.depth”. Dichtung Digital. *Journal f�
 
 Tisselli, Eugenio (2018). *La espectralidad del lenguaje*. Recuperado de: <a href="https://doi.org/10.1017/CBO9781107415324.004" target="_blank" rel="noopener noreferrer">https://doi.org/10.1017/CBO9781107415324.004</a>
 
-Tisselli, Eugenio (2019a). *Amazon*. Recuperado de: <a href="motorhueso.net/amazon/es/" target="_blank" rel="noopener noreferrer">motorhueso.net/amazon/es/</a>
+Tisselli, Eugenio (2019a). *Amazon*. Recuperado de: <a href="https://motorhueso.net/amazon/es/" target="_blank" rel="noopener noreferrer">https://motorhueso.net/amazon/es/</a>
 
 Tisselli, Eugenio (2019b). *La comunidad extendida: arte e implicación social en el Antropoceno*. *Ecología Política*. Recuperado de: <a href="https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/" target="_blank" rel="noopener noreferrer">https://www.ecologiapolitica.info/la-comunidad-extendida-arte-e-implicacion-social-en-el-antropoceno/</a>
