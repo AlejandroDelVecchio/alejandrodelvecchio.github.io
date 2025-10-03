@@ -13,7 +13,7 @@ En la introducción a _Critical Code Studies_ [Estudios críticos del código] (
 <p style="float:left; margin:0 15px 10px 0;">
   <img src="https://github.com/user-attachments/assets/25266446-0ca1-4802-bd94-d5143ae72f48" 
        alt="image" 
-       style="width:224px; height:auto;" />
+       style="width:248px; height:auto;" />
 </p>
 
 A grandes rasgos, una lectura referencial del código (o pseudocódigo) del cartel –cuyo contenido denotativo es evidente– permite advertir que se estructura en un loop que incrementa la cantidad de indios en la protesta hasta que el proyecto de ley se promulgue, momento en el cual el país estará libre de corrupción. El algoritmo, en tinta roja, aparece precedido por directivas para incluir librerías que pueden leerse como referencias al contexto y los actores implicados: la India, el proyecto Jan Lokpal y los estudiantes (el azul de esta sección del código contrasta con el rojo sangre del programa principal, que acaso connote las posibles consecuencias de arriesgar el propio cuerpo en la revuelta).
