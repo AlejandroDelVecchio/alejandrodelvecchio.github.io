@@ -8,14 +8,26 @@ layout: default
       <div class="blog-unit">
         <h1><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h1>
         <span class="blog-date">
-          {% assign d = post.date | date: "%-d"  %}
-          {{ post.date | date: "%B" }}
-          {% case d %}
-            {% when '1' or '21' or '31' %}{{ d }}st
-            {% when '2' or '22' %}{{ d }}nd
-            {% when '3' or '23' %}{{ d }}rd
-            {% else %}{{ d }}th{% endcase %},
-          {{ post.date | date: "%Y" }}
+          {% assign month = post.date | date: "%B" %}
+          {% assign day = post.date | date: "%-d" %}
+          {% assign year = post.date | date: "%Y" %}
+
+          {% case month %}
+            {% when "January" %}{% assign month = "enero" %}
+            {% when "February" %}{% assign month = "febrero" %}
+            {% when "March" %}{% assign month = "marzo" %}
+            {% when "April" %}{% assign month = "abril" %}
+            {% when "May" %}{% assign month = "mayo" %}
+            {% when "June" %}{% assign month = "junio" %}
+            {% when "July" %}{% assign month = "julio" %}
+            {% when "August" %}{% assign month = "agosto" %}
+            {% when "September" %}{% assign month = "septiembre" %}
+            {% when "October" %}{% assign month = "octubre" %}
+            {% when "November" %}{% assign month = "noviembre" %}
+            {% when "December" %}{% assign month = "diciembre" %}
+          {% endcase %}
+
+          {{ day }} de {{ month }} de {{ year }}
         </span>
       </div>
     {% endfor %}
