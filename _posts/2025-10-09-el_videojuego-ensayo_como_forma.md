@@ -1,12 +1,8 @@
-**El (video)juego-ensayo como forma: sobre *La puerta* de Eugenio
-Tisselli**
-
-**The (video)game-essay as a form: about *La puerta* by Eugenio
-Tisselli**
-
-Alejandro Del Vecchio
-
-UNMDP-Celehis
+---
+layout: post
+title: "El (video)juego-ensayo como forma: sobre <em>La puerta</em> de Eugenio
+Tisselli"
+---
 
 > *\[...\] les entendió sus airadas voces, según las cuales debían
 > ocupar barbechos, llanuras y ciudades, hasta borrar de la tierra el
