@@ -4,12 +4,10 @@ title: "El (video)juego-ensayo como forma: sobre <em>La puerta</em> de Eugenio
 Tisselli"
 ---
 
-> *\[...\] les entendió sus airadas voces, según las cuales debían
-> ocupar barbechos, llanuras y ciudades, hasta borrar de la tierra el
-> rastro del hombre y mecer un solo ramaje en urdimbre cerrada, cual en
-> los milenios del Génesis \[...\]*
->
-> José Eustasio Rivera, *La vorágine*
+<p align="right">
+  [...] les entendió sus airadas voces, según las cuales debían ocupar barbechos, llanuras y ciudades, hasta borrar de la tierra el rastro del hombre y mecer un solo ramaje en urdimbre cerrada, cual en los milenios del Génesis [...]<br>
+  <cite>José Eustasio Rivera, *La vorágine*</cite>
+</p>
 
 *La puerta* (2022) constituye, en palabras de Eugenio Tisselli, "un
 *juego-ensayo* sobre el *antropoceno*". En el guion que separa (y a la
