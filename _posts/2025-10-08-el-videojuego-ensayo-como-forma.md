@@ -4,6 +4,8 @@ title: "El (video)juego-ensayo como forma: sobre <em>La puerta</em> de Eugenio
 Tisselli"
 ---
 
+(Publicado en *CELEHIS : Revista del Centro de Letras Hispanoamericanas. Núm. 45*. Mar del Plata: UNMDP, 2025).
+
 <p align="right">
   [...] les entendió sus airadas voces, según las cuales debían ocupar barbechos, llanuras y ciudades, hasta borrar de la tierra el rastro del hombre y mecer un solo ramaje en urdimbre cerrada, cual en los milenios del Génesis [...]<br>
   <cite>José Eustasio Rivera, *La vorágine*</cite>
@@ -173,9 +175,9 @@ ya en otros cuerpos" / "El suelo del bosque está sembrado con carcasas
 de teléfonos muertos" / "Ruido de nubes-motor: pesadilla lúcida,
 enfermedad" / "Hazte un nido de voces animales".
 
-<p align="center">
-<img width="689" height="468" alt="image" src="https://github.com/user-attachments/assets/9bf6bedc-6c61-4e2e-a95d-ebfd4427f78f" />
-</p>
+<img src="https://github.com/user-attachments/assets/9bf6bedc-6c61-4e2e-a95d-ebfd4427f78f"
+     alt="image"
+     style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
   
 Versos efímeros, en tanto fulguran de modo intermitente en la pantalla,
 marcados --como la textura misma de la obra-- por lo liminal. Versos que
