@@ -173,9 +173,10 @@ ya en otros cuerpos" / "El suelo del bosque está sembrado con carcasas
 de teléfonos muertos" / "Ruido de nubes-motor: pesadilla lúcida,
 enfermedad" / "Hazte un nido de voces animales".
 
-![](media/image1.png){width="4.590551181102362in"
-height="3.122047244094488in"}
-
+<p align="center">
+<img width="689" height="468" alt="image" src="https://github.com/user-attachments/assets/9bf6bedc-6c61-4e2e-a95d-ebfd4427f78f" />
+</p>
+  
 Versos efímeros, en tanto fulguran de modo intermitente en la pantalla,
 marcados --como la textura misma de la obra-- por lo liminal. Versos que
 modulan desde el discurso hacia la configuración pronominal de una
@@ -364,6 +365,8 @@ https://www.motorhueso.net/wuwei/la-puerta/
 
 Tisselli, Eugenio (2023). *Líneas de fuerza.* Disponible en:
 https://www.motorhueso.net/wuwei/lineas-de-fuerza/
+
+__Notas:__
 
 [^1]: Debido a que se trata de una instalación digital, no se consignan
     números de página.
