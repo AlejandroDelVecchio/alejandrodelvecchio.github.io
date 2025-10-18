@@ -1,6 +1,10 @@
 ---
 layout: post
 title: 'Electrobardo'
+description: "Electrobardo."
+author: Alejandro Del Vecchio
+tags: [Electrobardo, videojuego]
+image: /assets/img/projects/Electrobardo/thumbnail.jpg
 ---
 "Electrobardo" es un poema-videojuego que adapta la mecánica del clásico Arkanoid para construir poesía generativa a través del juego. Cada punto obtenido por el jugador desvela progresivamente versos de los poemas, que se transforman en función de decisiones y elementos aleatorios durante la partida.
 
