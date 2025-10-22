@@ -1,0 +1,5 @@
+*.xml text eol=lf linguist-language=XML
+*.json text eol=lf linguist-language=JSON
+*.css text eol=lf linguist-language=CSS
+*.js text eol=lf linguist-language=JavaScript
+*.html text eol=lf linguist-language=HTML
