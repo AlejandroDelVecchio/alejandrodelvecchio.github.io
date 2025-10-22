@@ -1,14 +1,17 @@
 # Build settings
- 
 port: 4000
-markdown:  kramdown
+markdown: kramdown
+
 kramdown:
   parse_block_html: true
+
 permalink: /:title
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
-title:		   "Alejandro Del Vecchio"
+title: "Alejandro Del Vecchio"
 description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+author: "Paul Le"
