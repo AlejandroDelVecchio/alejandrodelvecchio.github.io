@@ -2,6 +2,8 @@
 port: 4000
 markdown: kramdown
 
+url: "https://alejandrodelvecchio.github.io"
+
 kramdown:
   parse_block_html: true
 
