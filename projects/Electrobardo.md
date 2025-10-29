@@ -10,7 +10,11 @@ image: /assets/img/projects/Electrobardo/thumbnail.jpg
 
 La obra consta de cuatro robopoemas —"Arte poética", "Poema inteligente", "Poema comprometido" y "Poema para ser encarcelado"— que se generan dinámicamente. En cada poema, palabras clave cambian dentro de los versos para ofrecer múltiples lecturas, como reemplazar “poema” por “sexo”, “texto”, “verbo”, “libro” o “arte”. Este enfoque combina azar, interactividad y las decisiones del jugador para crear una experiencia única en cada juego.
 
-<iframe src="https://www.youtube.com/embed/BjMACH6t5hM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BjMACH6t5hM" target="_blank">
+    <img src="https://img.youtube.com/vi/BjMACH6t5hM/0.jpg" alt="Ver video en YouTube" width="70%">
+  </a>
+</p>
 
 "Electrobardo" se inspira en autores como Mark Fisher y Kenneth Goldsmith, quienes reflexionan sobre las posibilidades del lenguaje y la relación entre tecnología y creación literaria. La obra plantea un diálogo entre el videojuego y la poesía, mostrando cómo los límites entre ambos pueden difuminarse para generar nuevas formas de expresión.
 
