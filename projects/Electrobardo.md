@@ -14,5 +14,5 @@ La obra consta de cuatro robopoemas —"Arte poética", "Poema inteligente", "Po
 
 La pieza no solo invita a jugar, sino también a participar en la construcción del texto poético. La combinación de azar y diseño generativo convierte la experiencia en un ejercicio lúdico y reflexivo sobre el lenguaje, la creatividad y el rol del lector como co-creador."
 
-[Enlace a Electrobardo](https://pulsoviajero.com/electrobardo/Electrobardo.html)
+[Enlace a Electrobardo](https://alejandrodelvecchio.github.io/projects/Electrobardo/Electrobardo.html)
 
