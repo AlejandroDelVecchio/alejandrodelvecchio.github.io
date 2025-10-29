@@ -1,0 +1,82 @@
+body { 
+  margin:10px; 
+}
+
+@font-face {
+  font-family: "Pixellari";
+  font-display: auto;
+  src: url("../fonts/Pixellari.ttf");
+} 
+
+h3 {
+  font-family: Pixellari;
+  font-size: 200%;
+}
+
+.container {
+  width:640px;
+  margin:0 auto;
+}
+
+.barra {
+  background-color:#000000;
+  color: #ffffff;
+  font-size: 20px;
+  height: 40px; width: 600px;
+}
+
+#canvas_electrobardo{ 
+  background:#808080; 
+  border:#000 1px solid; 
+}
+
+.boton{
+    color:red;
+    font-family: "Pixellari";
+    font-size: 40px;
+    background-color: #000000;
+    cursor: pointer;
+    border-radius: 8px;
+    border:2px solid blue;
+}
+
+.boton:hover{
+    background-color: white;
+    color: #000000;
+}
+
+#contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#principal {
+  width: 60%;
+}
+#sidebar {
+  width: 40%;
+  font-family: "Pixellari";
+  font-size: 40px;  
+}
+
+#main {
+position:absolute;
+top:10px;
+left:20px;
+width:640px;
+margin-top:10px;
+background-color: #000000;
+color: white;
+font-family: "Pixellari";
+font-size: 40px;
+display: flex;
+justify-content: center;
+}
+#columna2 {
+width:300px;
+margin-left:640px;
+margin-top:20px;
+top:20px;
+font-family: "Pixellari";
+font-size: 20px;
+}
