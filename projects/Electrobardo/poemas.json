@@ -1,0 +1,347 @@
+﻿{
+  "niveles": [
+    {
+      "id": 1,
+      "titulo": { "es": "Arte poética", "en": "Poetic Art" },
+      "poema": {
+        "es": [
+          ["Que", "el", "verso", "sea", "como", "una", "llave"],
+          ["Que", "abra", "mil", "puertas"],
+          ["Una", "hoja", "cae;", "algo", "pasa", "volando;"],
+          ["Cuanto", "miren", "los", "ojos", "creado", "sea"],
+          ["Y", "el", "alma", "del", "oyente", "quede", "temblando"],
+          ["Inventa", "mundos", "nuevos", "y", "cuida", "tu", "palabra"],
+          ["El", "adjetivo", "cuando", "no", "da", "vida", "mata"],
+          ["Por", "qué", "cantáis", "la", "rosa", "oh", "Poetas"],
+          ["Hacedla", "florecer", "en", "el", "poema"],
+          ["Solo", "para", "nosotros"],
+          ["Viven", "todas", "las", "cosas", "bajo", "el", "Sol"],
+          ["El", "Poeta", "es", "un", "pequeño", "Dios"]
+        ],
+        "en": [
+          ["Let", "poetry", "be", "like", "a", "key"],
+          ["Opening", "a", "thousand", "doors"],
+          ["Let", "all", "the", "eye", "sees", "be", "created"],
+          ["And", "the", "soul", "of", "the", "listener", "tremble"],
+          ["Invent", "new", "worlds", "and", "watch", "your", "word"],
+          ["The", "Adjective", "when", "it", "doesn't", "give", "life", "kills", "it"],
+          ["Oh", "poets", "why", "sing", "of", "roses"],
+          ["Let", "them", "flower", "in", "your", "poems"],
+          ["For", "us", "alone"],
+          ["Do", "all", "things", "live", "beneath", "the", "Sun"],
+          ["The", "poet", "is", "a", "little", "God"]
+        ]
+      },
+      "reemplazos": {
+        "noun": {
+          "verso": ["poema", "sexo", "texto", "verbo", "libro", "arte", "trap", "rock", "cine", "cuerpo"],
+		  "poetry": ["poem", "sex", "text", "verb", "book", "art", "trap", "rock", "film", "body"],
+          "llave": ["clave", "contraseña", "bomba", "ganzúa", "trampa", "mano"],
+		  "key": ["code", "password", "bomb", "pick", "trap", "hand"],
+          "mil": ["dos", "tres", "algunas"],
+		  "thousand": ["two", "three", "some"],
+          "puertas": ["ventanas", "mandíbulas", "servidores", "cajas negras", "cajas de Pandora", "sectas"],
+		  "doors": ["windows", "jaws", "servers", "black boxes", "Pandora's boxes", "sects"],
+          "hoja": ["dictadura"],
+          "algo": ["Barthes", "Kristeva", "Pizarnik", "Milei", "Huidobro"],
+          "ojos": ["locos", "rotos", "cerdos"],
+		  "eye": ["mad", "broken", "pig"],
+          "alma": ["corazón", "sueño"],
+		  "soul": ["heart", "dream"],
+          "oyente": ["ausente", "lector"],
+		  "listener": ["absent", "reader"],
+          "mundos": ["inmundos", "vacíos", "desiertos", "sueños"],
+		  "worlds": ["filthy", "empty", "deserted", "dreams"],
+          "palabra": ["boca", "cuerpo", "mente", "refugio", "oro", "neurosis"],
+		  "word": ["mouth", "body", "mind", "refuge", "gold", "neurosis"],
+          "adjetivo": ["sustantivo", "verbo", "adverbio", "Robopoeta"],
+          "vida": ["muerte","cringe"],
+          "rosa": ["orquídea", "margarita", "vulva"],
+          "Poetas": ["Robopoetas"],
+          "poema": ["robopoema"],
+          "nosotros": ["nosotres", "elles"],
+          "cosas": ["rosas"],
+          "Sol": ["Mar", "Océano", "Mantel"],
+		  "Sun": ["Sea", "Ocean", "Tablecloth"],
+          "Poeta": ["Robopoeta"],
+		  "poet": ["robopoet"],
+          "Dios": ["Ratón", "Buitre", "Ladrón", "Bribón", "Estafador", "Farsante", "Diablo", "Cerdo"],
+		  "God": ["Mouse", "Vulture", "Thief", "Rogue", "Conman", "Fraud", "Devil", "Pig"]
+        },
+        "verb": {
+          "abra": ["patee", "cierre", "rompa", "hackee"],
+		  "Opening": ["kick", "close", "break", "hack"],
+          "sees": ["sees", "registers", "detects"],
+          "tremble": ["glitch", "shudder", "crash"],		  
+          "volando": ["fumando", "cantando", "soñando"],
+          "mata": ["procrea","gobierna","crashea", "reinicia", "borra"],
+		  "kills": ["crashes", "restarts", "erases"],
+          "florecer": ["quemarse", "explotar", "glitchear","morir","vivir"],
+		  "flower": ["burn", "explode", "glitch"],
+          "Inventa": ["Roba", "Copia", "Pega", "Reprograma"],
+		  "Invent": ["Steal", "Copy", "Paste", "Reprogram"],
+          "cuida": ["olvida", "corrompe", "hackea","descuida","vende","oculta"],
+		  "watch": ["forget", "corrupt", "hack"]  
+        },
+        "adjective": {
+          "nuevo": ["falso", "robado", "glitch", "eléctrico"],
+          "new": ["false", "stolen", "glitchy", "electric"],
+          "Adjective": ["Noun", "Verb", "Adverb", "Robopoet"],
+		  "pequeño": ["grandísimo", "enorme", "insulso"]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "titulo": { "es": "Poema inteligente", "en": "The clever poem" },
+      "poema": {
+        "es": [
+          ["A", "veces", "me", "parece"],
+          ["que", "estamos", "en", "el", "centro"],
+          ["de", "la", "fiesta"],
+          ["sin", "embargo"],
+          ["en", "el", "centro", "de", "la", "fiesta"],
+          ["no", "hay", "nadie"],
+          ["En", "el", "centro", "de", "la", "fiesta"],
+          ["está", "el", "vacío"],
+          ["Pero", "en", "el", "centro", "del", "vacío"],
+          ["hay", "otra", "fiesta"]
+        ],
+        "en": [
+          ["Sometimes", "it", "seems"],
+          ["that", "we", "are", "in", "the", "center"],
+          ["of", "the", "party"],
+          ["however"],
+          ["in", "the", "center", "of", "the", "party"],
+          ["there's", "no", "one"],
+          ["In", "the", "center", "of", "the", "party"],
+          ["is", "the", "void"],
+          ["But", "in", "the", "center", "of", "this", "void"],
+          ["there", "is", "another", "party"]
+        ]
+      },
+      "reemplazos": {
+        "noun": {
+          "centro": ["borde", "afuera", "fin"],
+		  "center": ["edge", "outside"],
+          "fiesta": ["hoguera"],
+		  "party": ["fire"],
+          "nadie": ["alguien","esperanza","futuro","pasado"],
+		  "no one": ["someone"],
+          "vacío": ["horror","gobierno"],
+		  "void": ["horror"]
+        },
+        "verb": {
+		 "estamos": ["dormimos","gobernamos"],
+		 "está": ["florece","aparece"]
+		},
+        "adjective": {}
+      }
+    },
+    {
+      "id": 3,
+      "titulo": { "es": "Poema comprometido", "en": "The compromised poem" },
+      "poema": {
+        "es": [
+          ["Me", "contaron", "que", "estabas", "enamorada", "de", "otro"],
+          ["y", "entonces", "me", "fui", "a", "mi", "cuarto"],
+          ["y", "escribí", "ese", "artículo", "contra", "el", "Gobierno"],
+          ["por", "el", "que", "estoy", "preso"]
+        ],
+        "en": [
+          ["They", "told", "me", "you", "were", "in", "love", "with", "another", "man"],
+          ["and", "then", "I", "went", "off", "to", "my", "room"],
+          ["and", "I", "wrote", "that", "article", "against", "the", "government"],
+          ["that", "landed", "me", "in", "jail"]
+        ]
+      },
+      "reemplazos": {
+        "noun": {
+          "de otro": ["de otra", "de Electrobardo", "de Mark Fisher", "de Kenneth Goldsmith", "de Alejandro Del Vecchio"],
+		  "another": ["another woman", "Electrobardo's", "Mark Fisher's", "Kenneth Goldsmith's", "Alejandro Del Vecchio's"],
+          "cuarto": ["búnker"],
+		  "room": ["bunker"],
+          "artículo": ["poema"],
+          "article": ["poem"],
+		  "Gobierno": ["Capitalismo", "Realismo Capitalista"],          		  
+          "government": ["Capitalism", "Capitalist Realism"],
+          "jail": ["prison", "black site"]
+        },
+        "verb": {
+		  "contaron": ["mintieron"],
+		  "estabas enamorada": ["seguías enamorada"],
+		  "me fui": ["huí"],
+		  "escribí": ["escupí","vomité"],
+		  "wrote": ["spat"],
+		  "estoy": ["sigo"]
+		},
+        "adjective": {
+		  "preso": ["ileso"]
+		}
+      }
+    },
+    {
+      "id": 4,
+      "titulo": { "es": "Poema para ser encarcelado", "en": "Poem to be imprisoned" },
+      "poema": {
+        "es": [
+          ["Di", "la", "verdad"],
+          ["Di", "al", "menos", "tu", "verdad"],
+          ["Y", "después"],
+          ["Deja", "que", "cualquier", "cosa", "ocurra"],
+          ["Que", "te", "rompan", "la", "página", "querida"],
+          ["Que", "te", "tumben", "a", "pedradas", "la", "puerta"],
+          ["Que", "la", "gente"],
+          ["Se", "amontone", "delante", "de", "tu", "cuerpo"],
+          ["Como", "si", "fueras"],
+          ["Un", "prodigio", "o", "un", "muerto"]
+        ],
+        "en": [
+          ["Say", "the", "truth"],
+          ["Say", "at", "the", "very", "least", "your", "truth"],
+          ["And", "later"],
+          ["Let", "anything", "happen"],
+          ["Let", "them", "tear", "your", "cherished", "page"],
+          ["Let", "them", "stone", "your", "door", "down"],
+          ["Let", "the", "people"],
+          ["Gather", "before", "your", "body"],
+          ["As", "if", "you", "were"],
+          ["A", "prodigy", "or", "a", "dead", "man"]
+        ]
+      },
+      "reemplazos": {
+        "noun": {
+          "verdad": ["mentira"],
+		  "truth": ["lie"],
+          "cosa": ["rosa"],
+		  "thing": ["rose"],
+          "página": ["pantalla"],
+		  "page": ["screen"],
+          "puerta": ["huerta"],
+		  "door": ["garden"],
+          "gente": ["mente"],
+		  "people": ["mind"],
+          "cuerpo": ["cuerpa"],
+		  "body": ["corpse", "self", "entity"],
+          "prodigio": ["farsante"],                                       
+          "prodigy": ["looser"],
+          "dead": ["alive"],
+		  "muerto": ["vivo"]
+        },
+        "verb": {
+		  "Di": ["Esconde", "Oculta", "Escupe", "Vomita"],
+		  "Deja": ["Promueve"],
+		  "ocurra": ["explote"],
+		  "happen": ["explodes"],
+		  "rompan": ["quemen","violen"],
+		  "se amontone": ["agonice"],
+		  "tear": ["burn"],
+		  "tumben": ["colapsen"],
+		  "stone": ["stone"],
+		  "fueras": ["parecieras"]
+		},
+        "adjective": {
+		  "querida": ["ignorada","olvidada"],
+		  "cherished": ["hated"]}
+      }
+    },
+    {
+      "id": 5,
+      "titulo": { "es": "Poema de amor", "en": "Poem to be imprisoned" },
+      "poema": {
+        "es": [
+		  ["Salimos", "del", "amor"],
+		  ["como", "de", "una", "catástrofe", "aérea"],
+		  ["Habíamos", "perdido", "la", "ropa","los", "papeles"],
+		  ["a", "mí", "me", "faltaba", "un", "diente"],
+		  ["y", "a", "ti", "la", "noción", "del", "tiempo"],
+		  ["Era", "un", "año", "largo", "como", "un", "siglo"],
+		  ["o", "un", "siglo", "corto", "como", "un", "día"],
+		  ["Por", "la", "casa", "despojos", "rotos", "vasos", "fotos", "libros", "deshojados"],
+		  ["Éramos", "los", "sobrevivientes"],
+		  ["de", "un", "derrumbe","de", "un", "volcán"],
+		  ["Y", "nos", "despedimos", "con", "la", "vaga", "sensación"],
+		  ["de", "haber", "sobrevivido"],
+		  ["aunque", "no", "sabíamos", "para", "qué"]
+        ],
+        "en": [
+		  ["We", "emerged", "from", "love"],
+		  ["as", "if", "from", "an", "aerial", "catastrophe"],
+		  ["We", "had", "lost", "our", "clothes","our", "documents"],
+		  ["I", "was", "missing", "a", "tooth"],
+		  ["and", "you", "had", "lost", "track", "of", "time"],
+		  ["Was", "it", "a", "year", "as", "long", "as", "a", "century"],
+		  ["or", "a", "century", "as", "short", "as", "a", "day"],
+		  ["Around", "the", "house", "broken", "rubble", "glasses", "photos", "torn", "books"],
+		  ["We", "were", "survivors"],
+		  ["of", "a", "collapse","of", "a", "volcano"],
+		  ["And", "we", "parted", "with", "the", "vague", "feeling"],
+		  ["of", "having", "survived"],
+		  ["though", "we", "didn’t", "know", "what", "for"]
+        ]
+      },
+      "reemplazos": {
+        "noun": {
+          "amor": ["closet", "FMI"],		  
+		  "love": ["deep web"],
+		  "ropa": ["vergüenza"],
+		  "clothes": ["shame"],
+		  "papeles": ["laureles"],
+		  "documents": ["laurels"],
+		  "diente": ["brazo"],
+		  "tooth": ["arm"],
+		  "ti": ["vos"],
+		  "tiempo": ["mal"],
+		  "time": ["evil"],
+		  "año": ["daño"],
+		  "year": ["damage"],
+		  "siglo": ["segundo"],
+		  "century": ["second"],
+		  "día": ["decenio"],
+		  "day": ["year"],
+		  "casa": ["casilla"],
+		  "house": ["box"],
+		  "despojos": ["cojos"],
+		  "rubble": ["gammy"],
+		  "vasos": ["gatos"],
+		  "glasses": ["cats"],
+		  "fotos": ["celulares"],
+		  "photos": ["phones"],
+		  "libros": ["ebooks"],
+		  "books": ["ebooks"],
+		  "sobrevivientes": ["supervivientes"],
+		  "survivors": ["leftovers"],
+		  "derrumbe": ["colapso"],
+		  "collapse": ["burst"],
+		  "volcán": ["volcán de chocolate"],
+		  "volcano": ["chocolate volcano"],
+		  "sensación": ["constatación"],
+		  "feeling": ["emotion"]
+        },
+        "verb": {
+		  "salimos": ["huimos"],
+		  "emerged": ["emerged"],
+		  "perdido": ["vendido"],
+		  "lost": ["lost"],
+		  "faltaba": ["sobraba","dolía"],
+		  "missing": ["missing"],
+		  "despedimos": ["insultamos"],
+		  "parted": ["parted"],
+		  "sobrevivido": ["renacido"],
+		  "survived": ["reborned"]
+		},
+        "adjective": {
+		  "aérea": ["climática","ambiental"],
+		  "aerial": ["aerial"],
+		  "largo": ["malo"],
+		  "long": ["bad"],
+		  "corto": ["lento"],
+		  "short": ["slow"],
+		  "rotos": ["reparados"],
+		  "broken": ["unbroken"],
+		  "deshojados": ["desmembrados"]
+		}
+      }
+    }	
+  ]
+}
