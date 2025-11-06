@@ -36,4 +36,9 @@ https://github.com/LeNPaul/portfolio-jekyll-theme/blob/gh-pages/LICENSE.md
 
 The base theme code retains its MIT License.
 All modifications, configurations, and additional content created by Alejandro Del Vecchio
-are not covered by the MIT Lic
+are not covered by the MIT License and may not be copied, reused, or redistributed
+without the author's explicit permission.
+
+**Summary:**
+- Original theme “portfolio-jekyll-theme” → MIT License (LeNPaul)
+- Site content, texts, and images → All rights reserved (c) Alejandro Del Vecchio
