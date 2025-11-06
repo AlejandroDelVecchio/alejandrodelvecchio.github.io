@@ -1,7 +1,10 @@
-**Todo código es político: instrucciones para abrir (y leer) la caja
-negra**
+---
+layout: post
+title: "Todo código es político: instrucciones para abrir (y leer) la caja
+negra. Reseña del volumen *Critical Code Studies* de Mark Marino."
+---
 
-Alejandro Del Vecchio[^1]
+(Publicado en *Reseñas CELEHIS - Número 28 (año 10)*. Mar del Plata: UNMDP, 2023).
 
 No resulta frecuente encontrarse ante la lectura de un texto
 fundacional. *Critical Code Studies* --como el título mismo del volumen
@@ -24,7 +27,7 @@ código" (ECC), que el propio Mark Marino define como
 > programa no son ideológicamente neutrales y pueden ser analizadas
 > utilizando enfoques teóricos aplicados a otros sistemas semióticos,
 > además de métodos interpretativos particulares desarrollados
-> específicamente para el análisis de programas[^2].\]
+> específicamente para el análisis de programas[^1].\]
 
 La publicación de Marino (artista, profesor de escritura, especialista
 en literaturas electrónicas) cristaliza más de quince años de
@@ -68,7 +71,7 @@ para celebrar el número creciente de mujeres programadoras.
 
 Estas anécdotas relevadas por el ensayista no solo refieren diversos
 modos en los que el código circula --no siempre se oculta tras una
-interfaz[^3]--, sino que ponen en escena su materialidad y su recepción.
+interfaz[^2]--, sino que ponen en escena su materialidad y su recepción.
 Como advierte Marino, el código *fuera-de-sí* del letrero de la mujer
 india constituye un *codework* más que un programa, en tanto carece de
 *ejecutabilidad*, rasgo que lo distancia de la aplicación referida de
@@ -210,17 +213,9 @@ Journal für Kunst und Kultur digitaler Medien. Nr. 36, Jg. 8.
 RUSHKOFF, D. (2010). *Programa o serás programado*. *Diez mandamientos
 para la era digital.* Barcelona: Penguin Random House.
 
-[^1]: Magister en Letras Hispánicas. Ayudante graduado en "Literatura y
-    cultura latinoamericanas II" y miembro del grupo de investigación
-    "Literatura y cultura latinoamericanas" dirigido por la Dra. Mónica
-    Marinone y codirigido por la Dra. Gabriela Tineo (Universidad
-    Nacional de Mar del Plata-CELEHIS). Profesor asociado en "Gramática
-    castellana 1" y "Gramática castellana 2" (UCAECE). Contacto:
-    adelvecchio@mdp.edu.ar
+[^1]: Mis traducciones.
 
-[^2]: Mis traducciones.
-
-[^3]: Son anécdotas idóneas para evidenciar, además, lo que Rita Raley
+[^2]: Son anécdotas idóneas para evidenciar, además, lo que Rita Raley
     llama "ímpetu del *code art* contemporáneo" que consistiría, en
     pocas palabras, en "revelar códigos, hacer visibles al espectador
     los mecanismos de producción" (Raley, 2016).
