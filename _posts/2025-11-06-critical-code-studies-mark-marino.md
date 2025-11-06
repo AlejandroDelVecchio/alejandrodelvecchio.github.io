@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Todo código es político: instrucciones para abrir (y leer) la caja
-negra. Reseña del volumen *Critical Code Studies* de Mark Marino."
+negra. Reseña del volumen <em>Critical Code Studies</em> de Mark Marino."
 ---
 
 (Publicado en *Reseñas CELEHIS - Número 28 (año 10)*. Mar del Plata: UNMDP, 2023).
@@ -219,3 +219,5 @@ para la era digital.* Barcelona: Penguin Random House.
     llama "ímpetu del *code art* contemporáneo" que consistiría, en
     pocas palabras, en "revelar códigos, hacer visibles al espectador
     los mecanismos de producción" (Raley, 2016).
+
+__Notas:__
