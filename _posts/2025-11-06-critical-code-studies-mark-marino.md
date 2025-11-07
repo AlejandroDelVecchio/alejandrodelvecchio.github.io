@@ -37,6 +37,12 @@ fuente de los lenguajes de programación, concebido como un reino
 semiótico distintivo, susceptible de ser leído y analizado como texto de
 cultura.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/062d8501-80eb-4d0f-9f79-5461d1f605b6"
+     alt="image"
+     style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+</p>
+    
 Si el software aparece entretejido en la vida contemporánea --económica,
 cultural, creativa, políticamente-- "de maneras tanto obvias como casi
 invisibles" (como afirma el prólogo a la colección de "Software Studies"
