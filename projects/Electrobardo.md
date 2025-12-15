@@ -22,5 +22,7 @@ La obra consta de cinco robopoemas —"Arte poética", "Poema inteligente", "Poe
 
 La pieza no solo invita a jugar, sino también a participar en la construcción del texto poético. La combinación de azar y diseño generativo convierte la experiencia en un ejercicio lúdico y reflexivo sobre el lenguaje, la creatividad y el rol del lector como co-creador.
 
+Dijo Jorge Luis Borges: «Sospecho que "Electrobardo" no es una mera distracción digital, sino una refutación del tiempo y del olvido. Sus algoritmos, laboriosos y fatales, postulan que Neruda -esa superstición trasandina- y Vallejo no son dos hombres, sino variaciones de un mismo código en "microchips reacondicionados". Al afirmar que "reescribir es reprogramar" y que el autor es un embeleco o un "error 404", esta obra construye un laberinto de espejos donde el plagio se revela como la forma más infame de la memoria. Una pieza inquietante que demuestra que el vasto universo es, acaso, una "luna escaneada en baja resolución"».
+
 [Enlace a Electrobardo](https://alejandrodelvecchio.github.io/projects/Electrobardo/Electrobardo.html)
 
