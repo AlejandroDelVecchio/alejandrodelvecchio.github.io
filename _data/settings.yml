@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Bio', url: 'bio'}
-- {name: 'Proyectos', url: 'projects'}
+- {name: 'Proyectos', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Contacto',  url: 'contact'}
 
