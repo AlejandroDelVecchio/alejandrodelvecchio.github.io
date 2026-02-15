@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'Bio', url: 'bio'}
 - {name: 'Proyectos', url: ''}
+- {name: 'Bio', url: 'bio'}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'Contacto',  url: 'contact'}
 
