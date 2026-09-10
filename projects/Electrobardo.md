@@ -7,16 +7,20 @@ tags: [Electrobardo, videojuego]
 image: /assets/img/projects/Electrobardo/thumbnail.jpg
 permalink: /projects/Electrobardo/
 ---
-
-"Electrobardo" es un poema-videojuego que adapta la mecánica del clásico Arkanoid para construir poesía generativa a través del juego. Cada punto obtenido por el jugador desvela progresivamente versos de los poemas, que se transforman en función de decisiones y elementos aleatorios durante la partida.
-
-La obra consta de cinco robopoemas —"Arte poética", "Poema inteligente", "Poema comprometido", "Poema para ser encarcelado" y "Poema de amor"— que se generan dinámicamente. En cada poema, palabras clave cambian dentro de los versos para ofrecer múltiples lecturas, como reemplazar “poema” por “sexo”, “texto”, “verbo”, “libro” o “arte”. Este enfoque combina azar, interactividad y las decisiones del jugador para crear una experiencia única en cada juego.
-
 ![Electrobardo](/assets/img/projects/Electrobardo/thumbnail.jpg)
 
-"Electrobardo" se inspira en autores como Mark Fisher y Kenneth Goldsmith, quienes reflexionan sobre las posibilidades del lenguaje y la relación entre tecnología y creación literaria. La obra plantea un diálogo entre el videojuego y la poesía, mostrando cómo los límites entre ambos pueden difuminarse para generar nuevas formas de expresión.
+Indudable precursor de la –todavía impune– saga Arkanoid (1986) (y de sus irresponsables remedos industriales), Electrobardo (1985) revolucionó la robopoesía contemporánea. La célebre paleta que rebota, destruye bloques y se obstina en tragar fichas no sería, desde esta perspectiva, sino la versión vulgarizada de una operación estética que Electrobardo ya había llevado a cabo un año antes: convertir ladrillos, repetición y azar en procedimientos de composición robopoética.
 
-La pieza no solo invita a jugar, sino también a participar en la construcción del texto poético. La combinación de azar y diseño generativo convierte la experiencia en un ejercicio lúdico y reflexivo sobre el lenguaje, la creatividad y el rol del lector como co-creador.
+<img width="2048" height="1536" alt="Registros de propiedad intelectual" src="https://github.com/user-attachments/assets/1c74a8f4-a02e-4641-8011-a837f07cc6e7" />
+Registros de propiedad intelectual que demuestran el plagio / 創作資料 — ARTWORK / FICTIONAL DOCUMENT
+
+Es de sobra conocido –aunque silenciado por la historia oficial– el conflicto vigente desde hace décadas entre Kodama Software y la empresa Taito (empresa que –diría Miguel de Unamuno– suele “mendigar pensamientos en ajena mesa”) por el evidente plagio cometido con el citado Arkanoid, ingenio infeliz y copia desvergonzada de Electrobardo.
+
+<img width="2528" height="1686" alt="Foto mediación abogados" src="https://github.com/user-attachments/assets/dc444ab5-fae7-4dd9-b24e-aa67c04c7dcb" />
+(Una de las tantas mediaciones fallidas entre Kodama y Taito - Archivo La Nación)
+
+Asimismo, autores como Mark Fisher y Kenneth Goldsmith, quienes reflexionaron sobre las posibilidades del lenguaje y la relación entre tecnología y creación literaria, se han “inspirado” silenciosamente en Electrobardo. Esta instalación digital de Kodama Software ya había planteado un diálogo entre videojuego y poesía, mostrando cómo los límites entre ambos pueden difuminarse para generar nuevas formas de expresión.
+No pretendemos, naturalmente, acusar a Fisher y Goldsmith de plagio. Sería una vulgar operación paradójica. Digamos simplemente que llegaron a conclusiones que el electrobardismo había alcanzado con la saludable ventaja de no haber necesitado soporíferas 450 páginas para justificarlas.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2em 0;">
   <iframe src="https://www.youtube.com/embed/BjMACH6t5hM"
