@@ -7,8 +7,6 @@ tags: [Electrobardo, videojuego]
 image: /assets/img/projects/Electrobardo/thumbnail.jpg
 permalink: /projects/Electrobardo/
 ---
-![Electrobardo](/assets/img/projects/Electrobardo/thumbnail.jpg)
-
 Indudable precursor de la –todavía impune– saga Arkanoid (1986) (y de sus irresponsables remedos industriales), Electrobardo (1985) revolucionó la robopoesía contemporánea. La célebre paleta que rebota, destruye bloques y se obstina en tragar fichas no sería, desde esta perspectiva, sino la versión vulgarizada de una operación estética que Electrobardo ya había llevado a cabo un año antes: convertir ladrillos, repetición y azar en procedimientos de composición robopoética.
 
 <img width="2048" height="1536" alt="Registros de propiedad intelectual" src="https://github.com/user-attachments/assets/1c74a8f4-a02e-4641-8011-a837f07cc6e7" />
