@@ -10,12 +10,12 @@ permalink: /projects/Electrobardo/
 Indudable precursor de la –todavía impune– saga *Arkanoid* (1986) (y de sus irresponsables remedos industriales), *Electrobardo* (1985) revolucionó la robopoesía contemporánea. La célebre paleta que rebota, destruye bloques y se obstina en tragar fichas no sería, desde esta perspectiva, sino la versión vulgarizada de una operación estética que *Electrobardo* ya había llevado a cabo un año antes: convertir ladrillos, repetición y azar en procedimientos de composición robopoética.
 
 <img style="max-width: 100%; height: auto;" alt="Registros de propiedad intelectual" src="https://github.com/user-attachments/assets/1c74a8f4-a02e-4641-8011-a837f07cc6e7" />
-<p style="margin-top: 1px;" align="center"><small>Registros de propiedad intelectual que demuestran el plagio / 創作資料 — ARTWORK / FICTIONAL DOCUMENT</small></p>
+<p style="margin-top: -10px;" align="center"><small>Registros de propiedad intelectual que demuestran el plagio / 創作資料 — ARTWORK / FICTIONAL DOCUMENT</small></p>
 
 Es de sobra conocido –aunque silenciado por la historia oficial– el conflicto vigente desde hace décadas entre Kodama Software y la empresa Taito (empresa que –diría Miguel de Unamuno– suele “mendigar pensamientos en ajena mesa”) por el evidente plagio cometido con el citado *Arkanoid*, ingenio infeliz y copia desvergonzada de *Electrobardo*.
 
 <img style="max-width: 100%; height: auto;" alt="Foto mediación abogados" src="https://github.com/user-attachments/assets/dc444ab5-fae7-4dd9-b24e-aa67c04c7dcb" />
-<p style="margin-top: 1px;" align="center"><small>Una de las tantas mediaciones fallidas entre Kodama Software y Taito - Archivo La Nación</small></p>
+<p style="margin-top: -10px;" align="center"><small>Una de las tantas mediaciones fallidas entre Kodama Software y Taito - Archivo La Nación</small></p>
 
 Asimismo, autores como Mark Fisher y Kenneth Goldsmith, quienes reflexionaron sobre las posibilidades del lenguaje y la relación entre tecnología y creación literaria, se han “inspirado” silenciosamente en *Electrobardo*. Esta instalación digital de Kodama Software ya había planteado un diálogo entre videojuego y poesía, mostrando cómo los límites entre ambos pueden difuminarse para generar nuevas formas de expresión.
 No pretendemos, naturalmente, acusar a Fisher y Goldsmith de plagio. Sería una vulgar operación paradójica. Digamos simplemente que llegaron a conclusiones que el electrobardismo había alcanzado con la saludable ventaja de no haber necesitado soporíferas 450 páginas para justificarlas.
