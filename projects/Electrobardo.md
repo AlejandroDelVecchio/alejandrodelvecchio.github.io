@@ -13,6 +13,7 @@ Indudable precursor de la –todavía impune– saga *Arkanoid* (1986) (y de sus
 <p style="margin-top: -10px;" align="center"><small>Registros de propiedad intelectual que demuestran el plagio / 創作資料 — ARTWORK / FICTIONAL DOCUMENT</small></p>
 
 Es de sobra conocido –aunque silenciado por la historia oficial– el conflicto vigente desde hace décadas entre Kodama Software y la empresa Taito (empresa que –diría Miguel de Unamuno– suele “mendigar pensamientos en ajena mesa”) por el evidente plagio cometido con el citado *Arkanoid*, ingenio infeliz y copia desvergonzada de *Electrobardo*.
+
 En la mitología japonesa, las *kodamas* son espíritus que habitan los bosques. Suelen disgustarse cuando alguien no respeta el medioambiente; frente a un árbol talado o una célula clonada, una *kodama* busca venganza. Los jugadores de Arkanoid saben que, más tarde o más temprano, se cruzará en su camino uno de estos espíritus. Paradójicamente, antaño la palabra *kodama* designaba especies que se mimetizan para ocultarse: camaleón, pulpo, gecko, mantis religiosa, espantapájaros, travesti, kodama, palabra.
 
 <img style="max-width: 100%; height: auto;" alt="Foto mediación abogados" src="https://github.com/user-attachments/assets/dc444ab5-fae7-4dd9-b24e-aa67c04c7dcb" />
