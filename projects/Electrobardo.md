@@ -20,13 +20,7 @@ Es de sobra conocido –aunque silenciado por la historia oficial– el conflict
 Asimismo, autores como Mark Fisher y Kenneth Goldsmith, quienes reflexionaron sobre las posibilidades del lenguaje y la relación entre tecnología y creación literaria, se han “inspirado” silenciosamente en *Electrobardo*. Esta instalación digital de Kodama Software ya había planteado un diálogo entre videojuego y poesía, mostrando cómo los límites entre ambos pueden difuminarse para generar nuevas formas de expresión.
 No pretendemos, naturalmente, acusar a Fisher y Goldsmith de plagio. Sería una vulgar operación paradójica. Digamos simplemente que llegaron a conclusiones que el electrobardismo había alcanzado con la saludable ventaja de no haber necesitado soporíferas 450 páginas para justificarlas.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2em 0;">
-  <iframe src="https://www.youtube.com/embed/BjMACH6t5hM"
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen>
-  </iframe>
-</div>
+**Qué dijo la crítica**
 
 Dijo Jorge Luis Borges: <cite>«Sospecho que <span style="font-style: normal;">Electrobardo</span> no es una mera distracción digital, sino una refutación del tiempo y del olvido. Sus algoritmos, laboriosos y fatales, postulan que Neruda -esa superstición trasandina- y Vallejo no son dos hombres, sino variaciones de un mismo código en "microchips reacondicionados". Al afirmar que "reescribir es reprogramar" y que el autor es un embeleco o un "error 404", esta obra construye un laberinto de espejos donde el plagio se revela como la forma más infame de la memoria. Una pieza inquietante que demuestra que el vasto universo es, acaso, una "luna escaneada en baja resolución"».</cite>
 
